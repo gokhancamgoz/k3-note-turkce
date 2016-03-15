@@ -255,7 +255,7 @@ Daha az sayıda dosya aktarmayı seçebilir veya kartta daha fazla alanı boşal
      <string name="File_rename">Yeniden adlandır</string>
      <string name="File_search">Arama</string>
      <string name="File_searchkeyword">Anahtar Sözcüğü Girin</string>
-     <string name="File_select_all">Select all</string>
+     <string name="File_select_all">Tümünü seç</string>
      <string name="File_send">Gönder</string>
      <string name="File_set">Ayarlar</string>
      <string name="File_show_hidden_dirs">Dosya adında \".\" içeren gizli dizinleri göster</string>
