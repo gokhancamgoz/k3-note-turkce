@@ -99,7 +99,7 @@
      <string name="card_title_video_call">Video görüşmesi</string>
      <string name="card_title_video_call_connecting">Video bağlanıyor</string>
      <string name="card_title_video_call_error">Video araması bağlanamıyor</string>
-     <string name="card_title_video_call_paused">Video call (Paused)</string>
+     <string name="card_title_video_call_paused">Video araması durduruldu</string>
      <string name="card_title_video_call_requesting">Video isteniyor</string>
      <string name="card_title_video_incoming_call">Gelen video görüşmesi</string>
      <string name="change_my_pic">Ayarları değiştir</string>
@@ -351,7 +351,7 @@
      <string name="string_call">Çağrı</string>
      <string name="sub_1">SIM 1</string>
      <string name="sub_2">SIM 2</string>
-     <string name="suggested">Suggested</string>
+     <string name="suggested">Önerilen</string>
      <string name="ten_min_later">10 dakika sonra</string>
      <string name="unknown">Bilinmiyor</string>
      <string name="unknown_call_session_event">Bilinmeyen çağrı oturum</string>
