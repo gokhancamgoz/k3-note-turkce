@@ -227,7 +227,7 @@ Kişilerinizin yinelenen girişleri olabilir. Yinelenen girişleri birleştirmek
      <string name="audio_chat">Sesli sohbet</string>
      <string name="audio_mode_bluetooth">Bluetooth</string>
      <string name="audio_mode_earpiece">Kulaklık</string>
-     <string name="audio_mode_speaker">hoparlör</string>
+     <string name="audio_mode_speaker">Hoparlör</string>
      <string name="audio_mode_wired_headset">Kablolu kulaklık</string>
      <string name="author">Kişi Yöneticisi</string>
      <string name="auto_group">Otomatik sıralama</string>
@@ -253,7 +253,7 @@ Kişilerinizin yinelenen girişleri olabilir. Yinelenen girişleri birleştirmek
      <string name="block_mode_title">Engelleme kipi</string>
      <string name="block_video_incoming_call">Gelen görüntülü aramaları engelle</string>
      <string name="block_voice_incoming_call">Gelen sesli aramaları engelle</string>
-     <string name="blocknumber_delete_mark">işaretini kaldırmak</string>
+     <string name="blocknumber_delete_mark">işaretini kaldır</string>
      <string name="blocknumber_mark_contact">Kartvizit işaretle</string>
      <string name="blocknumber_mark_fail_msg">Başarısız!</string>
      <string name="blocknumber_mark_number">İşaret numarası</string>
@@ -264,10 +264,10 @@ Kişilerinizin yinelenen girişleri olabilir. Yinelenen girişleri birleştirmek
      <string name="blocknumber_type_blacklist">Kara liste</string>
      <string name="blocknumber_type_express">Ekspres kargo</string>
      <string name="blocknumber_type_finance">Finans</string>
-     <string name="blocknumber_type_fraud">dolandırıcılık</string>
+     <string name="blocknumber_type_fraud">Dolandırıcılık</string>
      <string name="blocknumber_type_harassment">Spam aramaları</string>
-     <string name="blocknumber_type_realtor">emlâkçı</string>
-     <string name="blocknumber_type_takeout">paket servisi olan</string>
+     <string name="blocknumber_type_realtor">Emlâkçı</string>
+     <string name="blocknumber_type_takeout">Paket servisi olan</string>
      <string name="blurbJoinContactDataWith">%s ile birleştirmek istediğiniz kişiyi seçin:</string>
      <string name="bodadianhua">拨打电话</string>
      <string name="both_sims">İki %s kart</string>
@@ -311,8 +311,8 @@ Kişilerinizin yinelenen girişleri olabilir. Yinelenen girişleri birleştirmek
      <string name="call_company_main">Şirketi ara</string>
      <string name="call_custom">Arama%s</string>
      <string name="call_detail_list_header">Arama kaydı</string>
-     <string name="call_dial_card1">SIM1arıyor</string>
-     <string name="call_dial_card2">SIM2arıyor</string>
+     <string name="call_dial_card1">SIM1 arıyor</string>
+     <string name="call_dial_card2">SIM2 arıyor</string>
      <string name="call_digits_hint">Arama için numara veya Pin girin</string>
      <string name="call_disambig_title">Şunu kullanarak çağrı yap</string>
      <string name="call_fax_home">Ana faksı ara</string>
