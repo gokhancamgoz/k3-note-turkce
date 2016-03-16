@@ -402,7 +402,7 @@
      <string name="vt_menu_switch">Kamerayı değiştir</string>
      <string name="vt_network_unreachable">Şebekeye erişilemiyor</string>
      <string name="vt_peer_video_quality">Eş düzey görüntü kalitesi</string>
-     <string name="vt_peer_video_quality_normal">Norma</string>
+     <string name="vt_peer_video_quality_normal">Normal</string>
      <string name="vt_peer_video_quality_sharp">Yüksek</string>
      <string name="vt_pic_replace_local_default">Varsayılan resim</string>
      <string name="vt_pic_replace_local_freezeme">Görüntümü dondur</string>
