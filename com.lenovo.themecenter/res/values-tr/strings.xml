@@ -7,7 +7,7 @@
      <string name="File_Ziping">Sıkıştırılıyor...</string>
      <string name="LoginAgain">Tekrar giriş</string>
      <string name="LoginOtherPrompt">Hesap başka bir telefondan girilmiş durumda. Eğersiz değilseniz, Lütfen hesap güvenliğinizi kontrol edin!Eğer tekrar giriş yapmazsanız,Bu hesabınızla ilgili tema merkezi fonksiyonlarını etkileyebilir. İptalden sonra, hesabınızı aktif etmek için tekrar giriş çıkış yapabilirsiniz..</string>
-     <string name="Logout">Logout</string>
+     <string name="Logout">Çıkış yap</string>
      <string name="LogoutNotification">Çıkış bildirimi</string>
      <string name="QQ">QQ Group</string>
      <string name="QQ_number">250144332</string>
@@ -23,7 +23,7 @@
      <string name="SUS_MSG_FAIL_NOWLANCONNECTED">"Lütfen WLAN'ı açın!"</string>
      <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Yetersiz depolama alanı!</string>
      <string name="SUS_MSG_LATESTVERSION">Bu, en son sürüm!</string>
-     <string name="SUS_MSG_LOADING">Downloading</string>
+     <string name="SUS_MSG_LOADING">İndiriliyor...</string>
      <string name="SUS_MSG_NOTFOUND">Güncelleme bulunamadı!</string>
      <string name="SUS_MSG_UPDATE_EXCEPTION">Güncelleme başarısız. Lütfen tekrar deneyin!</string>
      <string name="SUS_MSG_VERSION_QUERY">Sürüm bilgisine bakın</string>
@@ -65,10 +65,10 @@
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
-     <string name="abc_action_menu_overflow_description">More options</string>
-     <string name="abc_action_mode_done">Done</string>
-     <string name="abc_activity_chooser_view_see_all">See all</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+     <string name="abc_action_mode_done">Bitti</string>
+     <string name="abc_activity_chooser_view_see_all">Tümünü görüntüle</string>
+     <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
      <string name="abc_searchview_description_clear">Sorguyu temizle</string>
      <string name="abc_searchview_description_query">Sorguyu ara</string>
      <string name="abc_searchview_description_search">Ara</string>
@@ -90,7 +90,7 @@
      <string name="app_name_wallpaper">Tema Merkezi duvar kağıtları</string>
      <string name="app_version">Sürüm</string>
      <string name="apply">Uygula</string>
-     <string name="apply_fail_device_not_supported">Bucihaz kaynak tipi değiştirmeyi desteklemiyor</string>
+     <string name="apply_fail_device_not_supported">Bu cihaz kaynak tipi değiştirmeyi desteklemiyor</string>
      <string name="apply_fail_license_fail">Lisanslı olmayan kaynak dosyası</string>
      <string name="apply_fail_not_period_purchase">不是VIP用户，请开通后操作</string>
      <string name="apply_fail_period_purchase">Şu anki hesabınız aylık indirdiğiniz içerikleri uygulamanıza izin vermiyor</string>
@@ -103,10 +103,10 @@
      <string name="apply_fail_unknown">Uygulanamadı  </string>
      <string name="apply_fail_vlife_apk_not_found">VLife APK kurulmamış</string>
      <string name="apply_fail_zooking_apk_not_found">ZooKing APK kurulmamış</string>
-     <string name="attention">Follow</string>
+     <string name="attention">Takip et</string>
      <string name="authenticate_dialog_title">Lütfen kullanıcı adını ve parolayı girin.</string>
      <string name="author">Sahibi:</string>
-     <string name="author_other_theme">authorun diğer temaları</string>
+     <string name="author_other_theme">Yazarın diğer temaları</string>
      <string name="bad_extension_error">Üzgünüm, dosyaları uzantılarıyla değiştiremezsiniz.</string>
      <string name="bbs">BBS</string>
      <string name="bitmap_failed">Dosya hasarlı</string>
@@ -319,7 +319,7 @@
      <string name="com_lenovo_lsf_login_common_et_hint_password">Şifre</string>
      <string name="com_lenovo_lsf_login_common_et_hint_phone">Telefon numarası</string>
      <string name="com_lenovo_lsf_login_common_findpassword">Şifreyi al</string>
-     <string name="com_lenovo_lsf_login_common_forgetpassword">Forgot your password?</string>
+     <string name="com_lenovo_lsf_login_common_forgetpassword">Şifrenizi mi unuttunuz?</string>
      <string name="com_lenovo_lsf_login_common_logining">Oturum açılıyor. Lütfen bekleyin...</string>
      <string name="com_lenovo_lsf_login_common_loginsuccess_toast">Oturum açma başarılı oldu</string>
      <string name="com_lenovo_lsf_login_common_phonelogin">Telefon ile oturum aç</string>
@@ -328,7 +328,7 @@
      <string name="com_lenovo_lsf_login_entrance_loginsuccess_toast">Oturum açma başarılı oldu</string>
      <string name="com_lenovo_lsf_login_entrance_onekey_authentication_tips">Telefon numaranızı doğrulamak için SMS gönderiliyor. Lenovo hiçbir ücret almayacaktır, SMS ücreti operatörler tarafından alınır.</string>
      <string name="com_lenovo_lsf_login_entrance_onekey_authentication_title">Doğrulanıyor...</string>
-     <string name="com_lenovo_lsf_login_entrance_onekey_infor">Log in with this phone number as your account number</string>
+     <string name="com_lenovo_lsf_login_entrance_onekey_infor">Hesap numaranız olarak bu telefon numarası ile giriş yap</string>
      <string name="com_lenovo_lsf_login_entrance_onekey_logining_dialog_cancle">İptal</string>
      <string name="com_lenovo_lsf_login_entrance_onekey_logining_tips">SMS doğrulama başarılı oldu. Oturum açılıyor...</string>
      <string name="com_lenovo_lsf_login_entrance_onekey_logining_title">Oturum açılıyor...</string>
@@ -349,7 +349,7 @@
      <string name="com_lenovo_lsf_logout_are_you_sure_logout_lenovo_account">Geçerli hesaptan çıkmak istediğinizden emin misiniz?</string>
      <string name="com_lenovo_lsf_modify_account_text">Hesabızı düzenlemek bilgilerin kaybolmasına neden olabilir.</string>
      <string name="com_lenovo_lsf_modify_password_text">Kişisel bilgilerin güvenliğini sağlamak için, önceki şifrenizi gitin</string>
-     <string name="com_lenovo_lsf_msg_content">sms gönderilecek, emin misiniz?</string>
+     <string name="com_lenovo_lsf_msg_content">SMS gönderilecek, emin misiniz?</string>
      <string name="com_lenovo_lsf_msg_title">SMS gönderiliyor</string>
      <string name="com_lenovo_lsf_my_account">Profilim</string>
      <string name="com_lenovo_lsf_myaccount_string_logout">Hesaptan çık</string>
@@ -359,7 +359,7 @@
      <string name="com_lenovo_lsf_newemail_confirm_text">Herhangi bir değişiklik yapmadan önce, email adresinizin aktif olduğundan emin olun</string>
      <string name="com_lenovo_lsf_newphone_confirm_text">Herhangi bir değişiklik yapmadan önce, telefonunuzun sms alımı için aktif olduğuna emin olun</string>
      <string name="com_lenovo_lsf_no_getverifycode">Did not receive the verification code?</string>
-     <string name="com_lenovo_lsf_no_getverifycode1">Did not receive the verification code</string>
+     <string name="com_lenovo_lsf_no_getverifycode1">Doğrulama kodu alınmadı</string>
      <string name="com_lenovo_lsf_no_such_permission">İzin yok</string>
      <string name="com_lenovo_lsf_normal_login">Hesap oturum açma</string>
      <string name="com_lenovo_lsf_notification">"Lenovo ID'ye başarıyla kayıt oldunuz. Hesap güvenliği için şifre oluşturmak ister misiniz?"</string>
