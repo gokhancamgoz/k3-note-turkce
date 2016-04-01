@@ -11,10 +11,10 @@
      <string name="File_more">Diğer</string>
      <string name="File_paste">Yapıştır</string>
      <string name="File_rename">Yeniden adlandır</string>
-     <string name="File_select_all">tümünü seç</string>
-     <string name="File_select_none">Select none</string>
+     <string name="File_select_all">Tümünü seç</string>
+     <string name="File_select_none">Hiçbirini seçme</string>
      <string name="File_share">Paylaş</string>
-     <string name="File_unselect_all">tümünün seçimini kaldır</string>
+     <string name="File_unselect_all">Tümünün seçimini kaldır</string>
      <string name="accept_perm">İzin Ver</string>
      <string name="app_name">Lenovo res</string>
      <string name="captive_portal_dialog_button">Oturum aç</string>
@@ -85,8 +85,8 @@
      <string name="permission_label_write_calendar">Takvimleri değiştir</string>
      <string name="permission_label_write_call_log">Arama günlüklerini değiştir</string>
      <string name="permission_label_write_contacts">Kişileri değiştir</string>
-     <string name="permission_label_write_sms">İletileri Değiştir</string>
-     <string name="powerOnWarning_alarm_msg">Sonraki AlarmSaati: %1$s</string>
+     <string name="permission_label_write_sms">İletileri değiştir</string>
+     <string name="powerOnWarning_alarm_msg">Sonraki Alarm Saati: %1$s</string>
      <string name="powerOnWarning_boot_msg">Sonraki Açılış: %1$s</string>
      <string name="reboot_confirm_msg">El cihazınız yeniden başlatılacak</string>
      <string name="reboot_confirm_title">Yeniden başlat</string>
